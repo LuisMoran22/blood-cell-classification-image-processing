@@ -1,0 +1,9 @@
+# Add exact dependencies after the original source code is included.
+# Suggested packages for a biomedical image processing workflow:
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+opencv-python
+Pillow
