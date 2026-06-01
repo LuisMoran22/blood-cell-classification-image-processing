@@ -186,6 +186,8 @@ University biomedical engineering project focused on automated analysis of blood
 
 ---
 
-## License
+## License and Dataset Notice
 
-This repository uses the MIT License for code and documentation templates. Dataset and image rights depend on the original dataset license and should be verified before redistributing original microscopy images.
+This repository is licensed under the MIT License.
+
+The code and documentation in this repository are provided for educational and portfolio purposes. Any microscopy images or datasets used in this project belong to their original sources and are subject to their respective licenses. Please refer to the original dataset page for usage rights and redistribution conditions.
