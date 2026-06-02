@@ -11,6 +11,11 @@ The project classifies white blood cell microscopy images into four categories a
 
 ---
 
+## Important Note
+
+This project is intended for educational and portfolio purposes. It is not a medical diagnostic tool and should not be used for clinical decision-making.
+
+---
 ## Project Overview
 
 The objective of this project is to support automated blood cell analysis through biomedical image processing and convolutional neural networks.
@@ -243,6 +248,15 @@ outputs/
 - Image preprocessing with OpenCV
 - Model evaluation with confusion matrices and classification reports
 - Healthcare-oriented AI workflow
+
+---
+
+## Reproducibility Status
+
+- Dataset structure verified.
+- Image loading and preprocessing pipeline verified.
+- CNN training pipeline implemented.
+- Output generation configured for learning curves, classification reports, and confusion matrices.
 
 ---
 
