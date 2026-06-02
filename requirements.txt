@@ -1,9 +1,9 @@
-# Add exact dependencies after the original source code is included.
-# Suggested packages for a biomedical image processing workflow:
-numpy
-pandas
-matplotlib
-scikit-learn
-scikit-image
-opencv-python
-Pillow
+numpy>=1.23,<3
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+scikit-learn>=1.2
+tensorflow>=2.15
+opencv-python>=4.7
+tqdm>=4.64
+Pillow>=9.0

@@ -1,16 +1,14 @@
-# Data
+# Data Folder
 
-The uploaded archive did not include the raw dataset.
-
-Use this folder only for small sample images that you are allowed to share publicly.
-
-Recommended structure:
+Place the dataset locally here:
 
 ```text
 data/
-├── sample_images/
-├── README.md
-└── dataset_description.md
+└── dataset2-master/
+    └── images/
+        ├── TRAIN/
+        ├── TEST/
+        └── TEST_SIMPLE/
 ```
 
-Do not upload private, restricted, or patient-identifiable data.
+The full dataset is ignored by `.gitignore`.
